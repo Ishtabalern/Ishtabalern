@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ishtabalern 
-- 👀 I’m interested in developing some stupid game
+- 👋 Hi, I’m Ivo John Barroba 
+- 👀 I’m interested in developing a game
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my finals
-- 📫 How to reach me, you can reach me by going to my house and call me and then you can reach me
+- 🤯 I want to blow my mind with coding projects
+- 📫 Just call my name and maybe I will be there
 
 <!---
 Ishtabalern/Ishtabalern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
