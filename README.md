@@ -8,4 +8,4 @@
 Ishtabalern/Ishtabalern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=F7E111&background=000000&center=true&vCenter=true&lines=Add+me+on+Valorant;iceberg%23SHRLN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+developing+a+development;If+you're+reading+this+its+too+late)](https://git.io/typing-svg)
